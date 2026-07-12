@@ -1,0 +1,11 @@
+.brightline.tv #Paramount+
+
+.cbsinteractive.hb.omtrdc.net #Paramount+
+
+.tiqcdn.com #Paramount+
+
+.samba.tv #Paramount+
+
+.saa.paramountplus.com
+
+.paramountplus.com.data.adobedc.net # CNAME for (saa.paramountplus.com)
